@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print(123)
     print(555)
+    print('github change')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
